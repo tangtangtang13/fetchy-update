@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "setupUrl": "https://github.com/tangtangtang13/fetchy-update/releases/download/v1.1.0/Fetchy_Setup.exe",
-  "message": "🚀 ระบบมีการอัปเดตข้อมูลพนักงาน กรุณาอัปเดตเวอร์ชัน"
+  "version": "1.1.1",
+  "setupUrl": "https://github.com/tangtangtang13/fetchy-update/releases/download/v1.1.1/Fetchy_Setup.exe",
+  "message": "🔄 อัปเดตระบบเช็คเวลา  ปรับปรุงความแม่นยำในการบันทึกเวลา เพิ่มความเสถียรของระบบ แก้ไขข้อผิดพลาดจากเวอร์ชันก่อนหน้า"
 }
